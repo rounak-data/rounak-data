@@ -10,7 +10,7 @@ I'm a Data & Business Analyst with hands-on experience in analytics, supply chai
 ### Projects
 Here are some of my key analytics projects:
 - [Customer Segmentation using K-Means]
-- [ Inventory Dashboard]
+- [Inventory Dashboard]
 
 ### Links
 - 📄 [Download My Resume](https://github.com/rounak-gupta/rounak-gupta/raw/main/Rounak_Gupta_Resume.pdf)
