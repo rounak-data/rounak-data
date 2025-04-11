@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Rounak Gupta
 
-<!--
-**rounak-data/rounak-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data & Business Analyst with hands-on experience in analytics, supply chain, and BI tools. I enjoy turning data into insights that drive better decisions.
 
-Here are some ideas to get you started:
+### Skills
+- **Languages:** SQL, Python, R, Excel (Advanced)
+- **Tools:** Power BI, Tableau, Fishbowl ERP, NetSuite, Dynamics 365
+- **Techniques:** Forecasting, Clustering, Dashboards, Data Cleaning, Regression, EDA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+Here are some of my key analytics projects:
+- [Customer Segmentation using K-Means](https://github.com/rounak-gupta/customer-segmentation)
+- [Hospital Readmission Prediction (ML)](https://github.com/rounak-gupta/hospital-readmission)
+- [Power BI Inventory Dashboard](https://github.com/rounak-gupta/inventory-dashboard)
+
+### Links
+- 📄 [Download My Resume](https://github.com/rounak-gupta/rounak-gupta/raw/main/Rounak_Gupta_Resume.pdf)
+- [LinkedIn](www.linkedin.com/in/rounak-gupta-283820158)
+
