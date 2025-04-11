@@ -9,7 +9,7 @@ I'm a Data & Business Analyst with hands-on experience in analytics, supply chai
 
 ### Projects
 Here are some of my key analytics projects:
-- [Customer Segmentation using K-Means]
+- [Customer Segmentation using K-Means](https://github.com/rounak-data/Customer-Lifetime-Value-CLV-Prediction)
 - [Inventory Dashboard]
 - [Customer Lifetime Value (CLV) Prediction | Python]
 ### Links
