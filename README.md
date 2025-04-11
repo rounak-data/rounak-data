@@ -14,5 +14,6 @@ Here are some of my key analytics projects:
 - [Customer Lifetime Value (CLV) Prediction | Python]
 ### Links
 - 📄 [Download My Resume](https://github.com/rounak-gupta/rounak-gupta/raw/main/Rounak_Gupta_Resume.pdf)
-- [LinkedIn](www.linkedin.com/in/rounak-gupta-283820158)
+- [Connect with me on LinkedIn](https://www.linkedin.com/in/rounak-gupta-283820158/)
+
 
