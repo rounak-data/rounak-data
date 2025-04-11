@@ -11,7 +11,7 @@ I'm a Data & Business Analyst with hands-on experience in analytics, supply chai
 Here are some of my key analytics projects:
 - [Customer Segmentation using K-Means]
 - [Inventory Dashboard]
-
+  [Customer Lifetime Value (CLV) Prediction | Python]
 ### Links
 - 📄 [Download My Resume](https://github.com/rounak-gupta/rounak-gupta/raw/main/Rounak_Gupta_Resume.pdf)
 - [LinkedIn](www.linkedin.com/in/rounak-gupta-283820158)
