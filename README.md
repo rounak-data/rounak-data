@@ -4,7 +4,7 @@ I'm a Data & Business Analyst with hands-on experience in analytics, supply chai
 
 ### Skills
 - **Languages:** SQL, Python, R, Excel (Advanced)
-- **Tools:** Power BI, Tableau, Tableau, Jupyter Notebook, Asana
+- **Tools:** Power BI, Tableau, Jupyter Notebook, Asana
 - **Techniques:** Forecasting, Clustering, Dashboards, Data Cleaning, Regression, EDA
 
 ### Projects
